@@ -1,0 +1,16 @@
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\bin\Debug\netcoreapp2.2\ASP-Core.deps.json
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\bin\Debug\netcoreapp2.2\ASP-Core.runtimeconfig.json
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\bin\Debug\netcoreapp2.2\ASP-Core.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\bin\Debug\netcoreapp2.2\ASP-Core.dll
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\obj\Debug\netcoreapp2.2\ASP-Core.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\obj\Debug\netcoreapp2.2\ASP-Core.RazorAssemblyInfo.cache
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\obj\Debug\netcoreapp2.2\ASP-Core.RazorAssemblyInfo.cs
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\obj\Debug\netcoreapp2.2\ASP-Core.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\obj\Debug\netcoreapp2.2\ASP-Core.AssemblyInfo.cs
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\obj\Debug\netcoreapp2.2\ASP-Core.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\bin\Debug\netcoreapp2.2\ASP-Core.pdb
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\obj\Debug\netcoreapp2.2\ASP-Core.dll
+C:\Users\Ivan\Documents\ASP+Angular\ASP-Core\ASP-Core\obj\Debug\netcoreapp2.2\ASP-Core.pdb
