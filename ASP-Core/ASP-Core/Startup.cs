@@ -31,7 +31,7 @@ namespace ASP_Core
 
             services.AddCors(options =>
             {
-                options.AddPolicy("AllowAllOrigin", builder => builder.AllowAnyOrigin());
+                options.AddPolicy("AllowAllOrigin", builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
@@ -45,7 +45,7 @@ namespace ASP_Core
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseCors();
+            app.UseCors("AllowAllOrigin");
 
             app.UseMvc();
         }
